@@ -1,0 +1,20 @@
+[
+ {
+   "id": 0,
+   "Name": "False Cobra",
+   "specie": "M. moilensis",
+   "Area": "parts of Africa and the Middle East",
+   "path": "assets/photo/snake/0.png",
+   "venomous": "venom",
+   "wikipedia": "https://en.wikipedia.org/wiki/False_cobra#:~:text=The%20false%20cobra%20(Malpolon%20moilensis,Africa%20and%20the%20Middle%20East."
+ },
+ {
+   "id": 1,
+   "Name": "False Cobra",
+   "specie": "M. moilensis",
+   "Area": "parts of Africa and the Middle East",
+   "path": "assets/photo/snake/0.png",
+   "venomous": "venom",
+   "wikipedia": "https://en.wikipedia.org/wiki/False_cobra#:~:text=The%20false%20cobra%20(Malpolon%20moilensis,Africa%20and%20the%20Middle%20East."
+ }
+]

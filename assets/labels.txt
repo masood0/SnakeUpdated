@@ -1,0 +1,10 @@
+0 Fals Cobra
+1  Didam
+2  Echis Carinatus
+3 Echis Omanensis
+4 Arabian Sand Viper
+5 False Horn Viper
+6 Arabian Cobra
+7 Sand Boa
+8 Not Snake
+9 Other Snake
